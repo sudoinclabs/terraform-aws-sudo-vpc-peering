@@ -1,2 +1,2 @@
-# sudo-terraform-module-vpc-peering
+# sudo-terraform-module-template
 Template repository for Terraform modules
